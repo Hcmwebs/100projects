@@ -1,5 +1,8 @@
-These are my  100 projects that I have managed to code in 100 days!!! 
 
+
+<h2>These are the projects that I have managed to code in <strong>100 days!!!</strong> 
+I am really happy with my progress so far but will keep on and on.</h2>
+ <h3>Watch out for more !!!</h3>
 <ul>
         <li><a href="https://github.com/Hcmwebs/educaReplica.git" target="_blank" rel="noopener noreferrer">Educa Replica</a></li>
         <li><a href="https://github.com/Hcmwebs/iceCreamParlour.git" target="_blank" rel="noopener noreferrer">Stephanie´s Ice Cream Parlour</a></li>
